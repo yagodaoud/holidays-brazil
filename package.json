@@ -1,6 +1,6 @@
 {
   "name": "holidays-brazil",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Easy to use holiday validator.",
   "main": "main.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yagodaoud/holidays-br.git"
+    "url": "git+https://github.com/yagodaoud/holidays-brazil.git"
   },
   "keywords": [
     "holiday",
@@ -19,7 +19,7 @@
   "author": "yagodaoud",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yagodaoud/holidays-br/issues"
+    "url": "https://github.com/yagodaoud/holidays-brazil/issues"
   },
-  "homepage": "https://github.com/yagodaoud/holidays-br#readme"
+  "homepage": "https://github.com/yagodaoud/holidays-brazil#readme"
 }
