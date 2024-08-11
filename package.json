@@ -1,6 +1,6 @@
 {
   "name": "holidays-brazil",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Easy to use holiday validator.",
   "main": "main.js",
   "scripts": {
