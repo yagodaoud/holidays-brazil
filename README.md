@@ -10,7 +10,7 @@ npm install holidays-brazil
 ## Usage
 
 ```javascript
-const isHoliday = require('holidays-brazil)
+const isHoliday = require('holidays-brazil')
 
 
 isHoliday(new Date()) // Returns true or false
